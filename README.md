@@ -17,3 +17,5 @@ My Read Me File
 
 - Personal Mail: [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=anajikadam17@gmail.com)
 
+## My GitHub stats:
+![Anaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajikadam&show_icons=true&theme=radical)
