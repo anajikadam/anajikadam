@@ -1,4 +1,4 @@
-# anajikadam17
+# anajikadam
 My Read Me File
 
 ### Hi there!! I am Anaji 👋
