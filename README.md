@@ -24,7 +24,7 @@
 ----
 ## Heroku Project:
 
-- Multiple ML project with Flask: [https://anaji-projects.herokuapp.com/](https://anaji-projects.herokuapp.com/)
+- Multiple ML projects with Flask: [https://anaji-projects.herokuapp.com/](https://anaji-projects.herokuapp.com/)
 - Dash Project: [https://mydash-webapp.herokuapp.com/](https://mydash-webapp.herokuapp.com/)
 - Covid Web API with Flask: [https://covid-webapi.herokuapp.com/](https://covid-webapi.herokuapp.com/)
 -----
