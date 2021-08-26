@@ -34,6 +34,7 @@
 
 -----
 ## currently working on...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anajikadam&repo=OCR-Pro-Google-Service)](https://github.com/anajikadam/OCR-Pro-Google-Service)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anajikadam&repo=Resume-Classifier)](https://github.com/anajikadam/Resume-Classifier)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anajikadam&repo=NLP)](https://github.com/anajikadam/NLP)
 
