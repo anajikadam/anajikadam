@@ -31,7 +31,11 @@
 - Dash Project: [https://mydash-webapp.herokuapp.com/](https://mydash-webapp.herokuapp.com/)
 - Covid Web API with Flask: [https://covid-webapi.herokuapp.com/](https://covid-webapi.herokuapp.com/)
 -----
+## Streamlit-app:
 
+- Streamlit-app for Multiple Project (Olympic Games data Visualization): [streamlit-app](https://share.streamlit.io/anajikadam/streamlit-app/main/app.py)
+
+-----
 ## My GitHub stats:
 ![Anaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajikadam&show_icons=true&theme=radical&hide=contribs)
 
