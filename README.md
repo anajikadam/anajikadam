@@ -24,6 +24,9 @@
 ----
 ## Heroku Project:
 
+- OCR service using Google drive service Fast API Application: [https://ana-ocrfastapi.herokuapp.com/](https://ana-ocrfastapi.herokuapp.com/)
+- Create Fast API service for fetch Data from MongoDB: [http://anafastapi.herokuapp.com/](http://anafastapi.herokuapp.com/)
+- Create Django Application and use FastAPI service: [https://anadjangoapp.herokuapp.com/](https://anadjangoapp.herokuapp.com/)
 - Multiple ML projects with Flask: [https://anaji-projects.herokuapp.com/](https://anaji-projects.herokuapp.com/)
 - Dash Project: [https://mydash-webapp.herokuapp.com/](https://mydash-webapp.herokuapp.com/)
 - Covid Web API with Flask: [https://covid-webapi.herokuapp.com/](https://covid-webapi.herokuapp.com/)
