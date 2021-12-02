@@ -6,9 +6,9 @@
 <a href="https://www.linkedin.com/in/anaji-kadam-1944b2141">
   <img align="left" alt="Anaji Kadam LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+-----
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=anajikadam.anajikadam)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=anajikadam.anajikadam) -->
 
 ------
 ## My Interests are:
