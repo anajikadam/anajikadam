@@ -1,3 +1,6 @@
+<!-- ![anajikadam](https://anajikadam.github.io/) -->
+<a href="https://anajikadam.github.io/" target="_blank">anajikadam</a>
+
 
 # Hi there!! I am Anaji <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -17,7 +20,7 @@
 
 ## My details:
 
-- Personal Mail: [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=anajikadam17@gmail.com)
+- Personal Mail: [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=anajikadam23@gmail.com)
 ----
 ## Heroku Project:
 
